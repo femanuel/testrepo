@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://femanuel.github.io/testrepo/sitemap.xml

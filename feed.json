@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "femanuel",
+    "description": "",
+    "home_page_url": "https://femanuel.github.io/testrepo",
+    "feed_url": "https://femanuel.github.io/testrepo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "femanuel"
+    },
+    "items": [
+    ]
+}
